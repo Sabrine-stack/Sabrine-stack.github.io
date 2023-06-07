@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: Bio
+title: Bio
 permalink: /
-subtitle: <a href='#'>Affiliations</a> sabrine.chebbi@fst.utm.tn
+subtitle: <a href= sabrine.chebbi@fst.utm.tn
 
 profile:
   align: right
