@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Tunis. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Tunis. contacts. Moto. Etc.
 
 profile:
   align: right
