@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Sabrine-stack.github.io/al-folio/sitemap.xml
+Sitemap: https://Sabrine-stack.github.io/sitemap.xml
