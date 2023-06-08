@@ -23,7 +23,6 @@
       description:
         - Fluid–structure interaction
         - Prof. Sarka Necasova, Prof. Vaclav Macha
-
     - title: PhD
       institution: University of Tunis El Manar, Tunis, Tunisia
       year: 2020
@@ -40,9 +39,7 @@
     - title: Bachelor’s degree in Pure Mathematics
       institution: University of Tunis El Manar, Tunis, Tunisia.
       year: 2014
-  
-
-
+ 
 
 - title: Experience
   type: time_table
