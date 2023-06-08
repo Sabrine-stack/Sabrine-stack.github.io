@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. 09 Rue Tanjar, Bardo.+21654570749.
 
