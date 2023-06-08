@@ -2,32 +2,41 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sabrine Chebbi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th July 1991
     - name: Languages
-      value: English, German
+      value: Arabic, French, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Postdoctoral fellow
+      institution: University of Tuebingen, AI Center collaboration with AIMS, South Africa
+      year: 2022-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Project title: Multi-armed Bandit, Theory and Application in Communication Networks
+        - Collaborators: Prof.Setarah Maghsudi, Prof. Bubacarr bah
+    - title: Visiting Researcher
+      institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Fluid–structure interaction
+        - Collaborators: Prof. Sarka Necasova, Prof. Vaclav Macha
 
+    - title: PhD
+      institution: University of Tunis El Manar, Tunis, Tunisia
+      year: 2020
+      description:
+        - Asymptotic behavior and optimality of the energy of certain Timoshenko systems.
+        - PhD supervisors : Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
+        - Best thesis Awards for Tunisian women in pure mathematics
+    - title: Master’s degree in Mathematical Modelling and Scientific Computing (MSC)
+      institution: National Engineers School of Tunis, Tunis, Tunisia.
+      year: 2016
+      description:
+        - Thesis title: Lower energy estimates for Timoshenko system and Petrowski equation.
+        - Supervisors : Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
 - title: Experience
   type: time_table
   contents:
