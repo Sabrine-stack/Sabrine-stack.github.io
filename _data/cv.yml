@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 24th July 1991
     - name: Languages
-      value: Arabic, French, English, German
+      value: Arabic, French, English.
 
 - title: Education
   type: time_table
