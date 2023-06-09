@@ -12,14 +12,11 @@
   type: time_table
   contents:
     - title: Postdoctoral fellow
-      institution: University of Tuebingen, AI Center collaboration with AIMS, South Africa
+      institution: University of Tuebingen collaboration with AIMS, South Africa
       year: 2022-2024
       description:
-        -  Multi-armed Bandit, Theory and Application in Communication Networks
-        -  Prof.Setarah Maghsudi, Prof. Bubacarr bah
-      description:
-        - Description 1.
-        - Description 2.
+        - Description 1. Multi-armed Bandit, Theory and Application in Communication Networks.
+        - Description 2. Prof, Setarah Maghsudi, Prof, Bubacarr bah.
         - title: Description 3.
           contents:
             - Sub-description 1.
