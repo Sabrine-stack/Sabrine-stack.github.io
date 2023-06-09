@@ -17,10 +17,6 @@
       description:
         - Description 1. Multi-armed Bandit, Theory and Application in Communication Networks.
         - Description 2. Prof, Setarah Maghsudi, Prof, Bubacarr bah.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
   
     - title: Visiting Researcher
       institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
