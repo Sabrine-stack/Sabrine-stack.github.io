@@ -85,13 +85,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Best thesis Awards for Tunisian women in pure mathematics
+        
+    
 
 - title: Academic Interests
   type: nested_list
