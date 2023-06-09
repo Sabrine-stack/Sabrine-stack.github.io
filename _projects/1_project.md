@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description:  Partial Differential Equations as a Novel Method to Study the
+description:  PDE as a Novel Method to Study the Multi-Armed Bandit Problem
 img: assets/img/12.jpg
 importance: 1
 category: work
