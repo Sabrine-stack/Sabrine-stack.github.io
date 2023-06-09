@@ -22,11 +22,9 @@
       institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
       year: 2022
       description:
-        - Fluid–structure interaction
-        - Prof. Sarka Necasova, Prof. Vaclav Macha
-      description:
-        - Description 1.
-        - Description 2.
+        - Topic Fluid–structure interaction
+        - Collaborators  Prof, Sarka Necasova and Prof, Vaclav Macha
+  
 
 - title: Experience
   type: time_table
