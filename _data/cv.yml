@@ -86,8 +86,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1. Multi-armed Bandit, Theory and Application in Communication Networks
-     
+    - title: Topic 1. Asymptotic behavior for Nonlineair PDE and Numerical approximation
     - title: Topic 2. Fuid–structure interaction
     
  
