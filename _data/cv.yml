@@ -47,20 +47,12 @@
     - title: Assistant 
       institution: University of Tunis El Manar, Faculty of Sciences of Tunis
       year: 2020-2021
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+     
 
     - title: Assistant 
       institution: Free University of Tunis, Tunis, Tunisia 
       year: 2022
-      description:
-        - Description 1.
-        - Description 2.
+    
 
     - title: Assistant
       institution: University of Carthage, School of Statistics and Information Analysis, Tunis
