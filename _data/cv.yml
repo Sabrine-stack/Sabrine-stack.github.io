@@ -24,9 +24,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+  
+    - title: Visiting Researcher
+      institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
+      year: 2022
+      description:
+        - Fluid–structure interaction
+        - Prof. Sarka Necasova, Prof. Vaclav Macha
       description:
         - Description 1.
         - Description 2.
