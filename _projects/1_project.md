@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Partial Differential Equations as a Novel Method to Study the
+title: project 1
+description:  Partial Differential Equations as a Novel Method to Study the
 Multi-Armed Bandit Problem
-description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
