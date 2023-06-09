@@ -86,16 +86,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Topic 1. Multi-armed Bandit, Theory and Application in Communication Networks
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Topic 2. Fuid–structure interaction
       items:
         - Description 1.
         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
