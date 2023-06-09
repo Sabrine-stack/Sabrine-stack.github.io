@@ -24,15 +24,27 @@
       description:
         - Topic Fluid–structure interaction
         - Collaborators  Prof, Sarka Necasova and Prof, Vaclav Macha
-  
+    - title: PhD
+      institution: University of Tunis El Manar, Tunis, Tunisia
+      year: 2020
+      description:
+        - Asymptotic behavior and optimality of the energy of certain Timoshenko systems.
+        - PhD supervisors Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
+       
+    - title: Master’s degree in Mathematical Modelling and Scientific Computing (MSC)
+      institution: National Engineers School of Tunis, Tunis, Tunisia.
+      year: 2016
+      description:
+        - Thesis title Lower energy estimates for Timoshenko system and Petrowski equation.
+        - Supervisors  Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
+    - title: Bachelor’s degree in Pure Mathematics
+      institution: University of Tunis El Manar, Tunis, Tunisia.
+      year: 2014
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
+    - 
         - Description 1.
         - Description 2.
         - title: Description 3.
