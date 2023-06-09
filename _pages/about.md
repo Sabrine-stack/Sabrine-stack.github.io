@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral reasearcher and a member of the Decision Making team of the Computer Science Department, at the University of Tübingen. Before that, I was a PhD at the laboratory under the supervision of Prof.Ahmed Bchatnia and Prof.Makram Hamouda.
+I am a Postdoctoral reasearcher at AIMS, South Africa and a member of the Decision Making team of the Computer Science Department, at the University of Tübingen. Before that, I was a PhD at the laboratory under the supervision of Prof.Ahmed Bchatnia and Prof.Makram Hamouda.
 
 I am reachable at sabrine.chebbi@inf.uni-tuebingen.com also sabrine.chebbi@fst.utm
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
