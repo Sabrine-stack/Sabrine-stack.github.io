@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Project 1
 description:  PDE as a Novel Method to Study the Multi-Armed Bandit Problem
 img: assets/img/12.jpg
 importance: 1
