@@ -24,6 +24,8 @@
       description:
         - Lower energy estimates for Timoshenko system and Petrowski equation.
         - Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
+        
+        
        
         
     - title: Bachelor’s degree in Pure Mathematics
@@ -42,8 +44,8 @@
   
    
 - title: Visiting Researcher
-      institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
-      year: 2022
-      description: 
+  institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
+  year: 2022
+  description: 
       - Fluid–structure interaction
      
