@@ -15,7 +15,10 @@ profile:
 
 I am a Postdoctoral  researcher  at `AIMS`, South Africa and a member of the Decision Making team of the Computer Science Department, at the `University of Tübingen`. Before that, I was a PhD at the laboratory : Nonlinear Analysis and Geometry, `LR21ES08`, under the supervision of Prof.Ahmed Bchatnia and Prof.Makram Hamouda.
 
-I am reachable at `sabrine.chebbi@inf.uni-tuebingen.com` also `sabrine.chebbi@fst.utm`
+I am reachable at `sabrine.chebbi@inf.uni-tuebingen.com` also `sabrine.chebbi@fst.utm`.
+
+Useful links : 
+
 
 
 
