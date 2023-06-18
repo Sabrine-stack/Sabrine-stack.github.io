@@ -18,8 +18,4 @@ I am a Postdoctoral  researcher  at `AIMS`, South Africa and a member of the Dec
 I am reachable at `sabrine.chebbi@inf.uni-tuebingen.com` also `sabrine.chebbi@fst.utm`
 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 
