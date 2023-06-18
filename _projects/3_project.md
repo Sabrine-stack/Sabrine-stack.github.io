@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physical Neural Network 
+title: Project 3
 description: Physical Neural Network framework to solve PDEs
 img: assets/img/7.jpg
 #redirect: 
