@@ -91,10 +91,11 @@
 - title: Interests
   type: nested_list
   contents:
-    -  Multi-Armed Bandits
-    -  Online Learning
-    -  Machine Learning
-    -  PDE and Numerical approximation of the solution 
-    -  Fuid–structure interaction   
+      items:
+        -  Multi-Armed Bandits
+        -  Online Learning
+        -  Machine Learning
+        -  PDE and Numerical approximation of the solution 
+        -  Fuid–structure interaction   
    
     
