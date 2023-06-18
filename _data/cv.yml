@@ -89,7 +89,7 @@
 
       
 - title: Interests
-  type: list
+  type: map
   contents:
       items:
         -  Multi-Armed Bandits
