@@ -71,3 +71,21 @@
      year: 2015-now
      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Best thesis Awards for Tunisian women in pure mathematics
+      description:
+      - https://www.mathunion.org/cwm/news-and-events/2021-12-15/twma-best-thesis-awards-2021 
+    
+
+      
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1. Asymptotic behavior for Nonlineair PDE and Numerical approximation of the solution 
+    - title: Topic 2. Fuid–structure interaction   
+   
+    
