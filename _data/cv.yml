@@ -91,7 +91,6 @@
 - title: Interests
   type: nested_list
   contents:
-      items:
         -  Multi-Armed Bandits
         -  Online Learning
         -  Machine Learning
