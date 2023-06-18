@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: Fluid-Structure interaction 
+title: Fluid-Structure interaction
+description: A toy model for human lungs
 img: assets/img/3.jpg
 importance: 2
 category: work
