@@ -82,10 +82,13 @@
     
 
       
-- title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
-    - title: Topic 1. Asymptotic behavior for Nonlineair PDE and Numerical approximation of the solution 
-    - title: Topic 2. Fuid–structure interaction   
+    -  Multi-Armed Bandits
+    -  Online Learning
+    -  Machine Learning
+    -  PDE and Numerical approximation of the solution 
+    -  Fuid–structure interaction   
    
     
