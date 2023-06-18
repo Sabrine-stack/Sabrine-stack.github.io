@@ -89,13 +89,8 @@
 
       
 - title: Interests
-  type: map
+  type: list
   contents:
-      items:
-        -  Multi-Armed Bandits
-        -  Online Learning
-        -  Machine Learning
-        -  PDE and Numerical approximation of the solution 
-        -  Fuid–structure interaction   
+     Multi-Armed Bandits, Online Learning,  Machine Learning,  PDE and Numerical approximation of the solution, Fuid–structure interaction   
    
     
