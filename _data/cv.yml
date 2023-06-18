@@ -89,7 +89,7 @@
 
       
 - title: Interests
-  type: nested_list
+  type: list
   contents:
       items:
         -  Multi-Armed Bandits
