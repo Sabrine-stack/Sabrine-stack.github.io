@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  PDE as a Novel Method to Study the Multi-Armed Bandit Problem
-description: The multi-armed bandit (MAB) framework has garnered significant attention in various domains, including recommender systems, information retrieval, healthcare, and finance.
+title:  Projet 1
+description: PDE as a Novel Method to Study the Multi-Armed Bandit Problem
 img: assets/img/12.jpg
 importance: 1
 category: work
