@@ -9,3 +9,26 @@
       value: Arabic, French, English.
 
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Tunis El Manar, Tunis, Tunisia
+      year: 2020
+      description:
+        - Asymptotic behavior and optimality of the energy of certain Timoshenko systems.
+        - PhD supervisors Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
+       
+    - title: MSc Mathématiques  Modelling and Scientific Computing (MSC)
+      institution: National Engineers School of Tunis, Tunis, Tunisia.
+      year: 2016
+      description:
+        - Lower energy estimates for Timoshenko system and Petrowski equation.
+        - Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
+    - title: Bachelor’s degree in Pure Mathematics
+      institution: University of Tunis El Manar, Tunis, Tunisia.
+      year: 2014
+
+
+ 
+   
