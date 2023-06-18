@@ -19,7 +19,7 @@
         - Asymptotic behavior and optimality of the energy of certain Timoshenko systems.
         - PhD supervisors Prof. Ahmed Bchatnia and Prof. Makram Hamouda.
        
-    - title: MSc Mathématiques  Modelling and Scientific Computing (MSC)
+    - title: MSc Mathématiques  Modelling and Scientific Computing 
       institution: National Engineers School of Tunis, Tunis, Tunisia.
       year: 2016
       description:
@@ -29,6 +29,49 @@
       institution: University of Tunis El Manar, Tunis, Tunisia.
       year: 2014
 
+- title: Experience
+  type: time_table
+  contents:
+   - title: Postdoctoral fellow
+      institution: University of Tuebingen collaboration with AIMS, South Africa
+      year: 2022-2024
+      description:
+        - Multi-armed Bandit, Theory and Application in Communication Networks.
+        - Prof. Setarah Maghsudi, Prof. Bubacarr bah.
+  
+    - title: Visiting Researcher
+      institution: Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic 
+      year: 2022
+      description: Fluid–structure interaction, 
+        3-months research visit to collaborate with Prof. Sarka Necasova and Prof. Vaclav Macha
+        Our goal was to solve a system modelling the interaction between the motion of a spring and a viscous gas.
+        
+    - title: Teaching Assistant
+      institution: University of Tunis El Manar, Faculty of Sciences of Tunis
+      year: 2020-2021
+     
 
- 
+    - title: Teaching Assistant 
+      institution: Free University of Tunis, Tunis, Tunisia 
+      year: 2022
+      
+
+    - title: Teaching Assistant
+      institution: University of Carthage, School of Statistics and Information Analysis, Tunis
+      year: 2018-2022
+    
+   
+    - title: Research visit
+      institution: Picardie Jules Verne University, Amiens, France.
+      year: 2018-2019, 2019-2020
+      description: 3-months research visit to collaborate with Prof.Olivier Goubert.
+      Our goal was to study the numerical approximation of the solution of Timoshenko system.
+
+     - title: Project Manager AFRIDI
+      institution: Unievrsity of Tunis El Manar, Tunis 
+      year: 2020-2022
+      description: AFRIDI project, aimed at supporting education, research, and innovation for intra-African
+      development. 
+     
+
    
