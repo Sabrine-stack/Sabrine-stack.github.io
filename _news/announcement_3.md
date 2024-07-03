@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Interview with DAAD, Sharing my experiences and insights from my DAAD AIMS journey as a scholarship holder
+[https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/newsletter-hec-aims-2024-2/]
