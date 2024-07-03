@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Physics-Informed Neural Networks for Timoshenko System with  Thermoelasticity
+19 Pages Posted: 31 May 2024
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4850497]
+[https://www.youtube.com/watch?v=cTvPnk97kZQ]
